@@ -1,4 +1,4 @@
-# Title : A Http request wrapper of volley and loopj library
+### Project : A Http request wrapper library for volley and loopj library
 ### Installing
 Step 1 : Add it in your Project based build.gradle at the end of repositories:
 ```
